@@ -160,8 +160,7 @@ header {
 
 .fot-bck {
     background-image: url("images/bg-signup.jpg");
-    width: 100%;
-    height: 500px;
+   
     
 }
 
@@ -179,7 +178,7 @@ header {
 }
 
 .rowh1 {
-    color:  rgba(255,255,255,.5);
+    color:  white;
     margin-bottom: 40px;
 }
 
@@ -193,4 +192,49 @@ header {
     padding-left: 30px;
     padding-right: 30px;
     background-color: #64a19d !important;
+}
+
+
+.bck-foot {
+    background-color: white;
+    text-align: center;
+    border: 2px;
+    border-radius: 15px;
+    margin-top: 90px;
+    border-bottom: #64a19d 5px solid;
+    
+}
+
+.icon-foot{
+    color: #64a19d;
+    font-size: 20px;
+    margin-top: 40px;
+    
+}
+
+.pfoot2{
+    letter-spacing: .15rem;
+}
+
+
+.bdrt3 {
+    border: solid 2px;
+    border-color: #64a19d;
+    margin-right: 98px;
+    margin-left: 98px;
+    margin-bottom: 30px;
+}
+
+.p-infofoot {
+    color: darkgray;
+    font-size: 14px;
+}
+
+.p-infolien {
+    color: #64a19d;
+    font-size: 14px;
+}
+
+.dilien {
+    margin-bottom: 15px;
 }
