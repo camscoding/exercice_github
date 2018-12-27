@@ -157,3 +157,40 @@ header {
     padding-right: 70px;
     padding-left: 80px;
 }
+
+.fot-bck {
+    background-image: url("images/bg-signup.jpg");
+    width: 100%;
+    height: 500px;
+    
+}
+
+.cont-foot {
+    margin-top: 100px;
+}
+
+.icon-flech {
+    color: white;
+    font-size: 30px;
+}
+
+.row_foot {
+    padding-top: 200px;
+}
+
+.rowh1 {
+    color:  rgba(255,255,255,.5);
+    margin-bottom: 40px;
+}
+
+.lienmail {
+    letter-spacing: .15rem;
+}
+
+.bsub {
+    padding-top: 9px;
+    padding-bottom: 13px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: #64a19d !important;
+}
