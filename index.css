@@ -160,6 +160,7 @@ header {
 
 .fot-bck {
     background-image: url("images/bg-signup.jpg");
+    background-color: linear-gradient (to top,rgba(22,22,22,.9),rgba(22,22,22,.8));
    
     
 }
@@ -238,3 +239,21 @@ header {
 .dilien {
     margin-bottom: 15px;
 }
+
+
+.rowfoot3 {
+    font-size: 30px;
+}
+
+.colmedia {
+   padding-top: 90px;
+}
+
+
+
+.coloricone{
+    background-color: rgb(46, 41, 41);
+    padding: 10px;
+    border-radius: 70px;
+    color: gray;
+ }
